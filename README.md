@@ -4,7 +4,7 @@
 
 ![宝云(BaoYun)](https://i.eoht.net/airport/baoyun_logo.webp)
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/baoyun) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/baoyun) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 宝云(BaoYun) 的套餐页标注**全节点海外／中转支持**，提供通用订阅及多地区 Netflix 等流媒体解锁。月付从 **¥4、200GB/月**起，另有 **¥19/季度、500GB/月**的轻量特惠，以及总计 200GB、500GB、1000GB 的不限时流量包，**流量用完即止**。
 
